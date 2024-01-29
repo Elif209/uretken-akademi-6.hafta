@@ -1,0 +1,53 @@
+#input{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #0910ee;
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 20px;
+    background-color: rgb(95, 127, 232);
+}
+#kelvin{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #0d0d0e;
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 30px;
+    background-color: rgb(10, 124, 237);
+}
+#fahrenhayt{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #0d0d0e;
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 30px;
+    background-color: rgb(10, 124, 237);
+}
+#kelvinsonuc{
+    width: 80%;
+    height: 40px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    font-style: italic;
+    font-size: large;
+    border: 3px solid #f10606;
+}
+#fahrenhaytsonuc{
+    width: 80%;
+    height: 40px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    font-style: italic;
+    font-size: large;
+    border: 3px solid #f10606;
+}
